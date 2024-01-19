@@ -116,7 +116,12 @@ Once everythin is completed, we can access the web interace of guacamole with gu
 ```url
 localhost:8082/guacamole
 ```
+![image](https://github.com/IDC26/GuacTraefik/assets/94365562/41183176-985f-43db-bdcd-c181dcfc7e59)
+![image](https://github.com/IDC26/GuacTraefik/assets/94365562/52da2c9d-52a9-4830-8f10-4527dc831b8c)
+
 And the Web interface of Traefik on
 ```url
 localhost:8080
 ```
+![image](https://github.com/IDC26/GuacTraefik/assets/94365562/5dc03c61-9ba1-4966-ac63-11c85336ec91)
+![image](https://github.com/IDC26/GuacTraefik/assets/94365562/f270ac15-a352-455e-9a11-077215169e55)
