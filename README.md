@@ -107,7 +107,7 @@ services:
     - "traefik.backend=guacamole"
     - "traefik.port=8080"
 ```
-After creating the docker-copmose.yaml file, the only this remaining is to bring up docker as follows:
+After creating the docker-copmose.yaml file, the only thing remaining is to bring up docker as follows:
 ```linux
 $ docker compose up
 ```
