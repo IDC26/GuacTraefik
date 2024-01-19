@@ -112,7 +112,7 @@ After creating the docker-copmose.yaml file, the only this remaining is to bring
 $ docker compose up
 ```
 Inside the logs we can notice the tables creating inside the database
-Once everythin is completed, we can access the web interace of guacamole
+Once everythin is completed, we can access the web interace of guacamole with guacadmin/guacadmin
 ```url
 localhost:8082/guacamole
 ```
